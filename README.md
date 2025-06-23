@@ -1,4 +1,4 @@
 # MyRep
 This is my first Git Repositry
 <br>
-I am Jayendra Singh Nayal
+I am Jayendra Singh Nayal(Coder)
